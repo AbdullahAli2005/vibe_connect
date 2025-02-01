@@ -21,7 +21,7 @@
 - **Frontend:** Flutter (Dart)
 - **Backend:** Firebase Authentication, Firestore Database
 - **Cloud Storage:** Cloudinary
-- **State Management:** Provider / Riverpod (optional)
+- **State Management:** Provider 
 - **Push Notifications:** Firebase Cloud Messaging (FCM)
 
 ---
