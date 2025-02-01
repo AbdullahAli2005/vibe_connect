@@ -26,12 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your app here)*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
