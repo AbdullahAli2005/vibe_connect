@@ -48,22 +48,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAcZFNZGSnCKJZ7vk3wAs495jiIaq3E3Gs',
-    appId: '1:1063885275798:web:c6955440837ffc305678b7',
-    messagingSenderId: '1063885275798',
-    projectId: 'vibeconnect-bac57',
-    authDomain: 'vibeconnect-bac57.firebaseapp.com',
-    storageBucket: 'vibeconnect-bac57.firebasestorage.app',
-    measurementId: 'G-N350XTY8WP',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC7KwhfNBHYyadCMReADbBhD4O9zE-ennY',
-    appId: '1:1063885275798:android:206144a4870914775678b7',
-    messagingSenderId: '1063885275798',
-    projectId: 'vibeconnect-bac57',
-    storageBucket: 'vibeconnect-bac57.firebasestorage.app',
-  );
 }
